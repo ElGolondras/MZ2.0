@@ -22,7 +22,7 @@
 
 ## 🎮 Cómo Jugar
 
-1.  **Clona el repositorio**: [Haz clic aquí para ir al repositorio de MZ2.0](https://github.com/tu-usuario/MZ2.0)
+1.  **Clona el repositorio**: [Haz clic aquí para ir al repositorio de MZ2.0]([https://github.com/tu-usuario/MZ2.0](https://drive.google.com/file/d/1gbwJcczghXD-UV4mUYLNmlQUWGxj7kgT/view?usp=sharing))
 2.  **Abre el proyecto** en Unity (Versión recomendada 2022.3 o superior).
 3.  **Controles**:
     * `WASD`: Movimiento.
