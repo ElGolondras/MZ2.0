@@ -30,11 +30,5 @@
     * `1 / 2`: Cambiar arma.
     * `R`: Recargar.
 
-## 📝 Notas de Desarrollo
-
-Este proyecto resuelve desafíos técnicos comunes en Unity, como:
-* **Error CS0102**: Resolución de conflictos de definición de variables en el `NavMeshAgent`.
-* **Animator Null Checks**: Validación de `AnimatorControllers` durante la instanciación de prefabs para evitar errores en el `GunInventory`.
-
 ---
-Desarrollado con 🎮 y ☕ por **[Tu Nombre]**.
+Desarrollado por **ElGolondras**.
