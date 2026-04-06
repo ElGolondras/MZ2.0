@@ -26,9 +26,12 @@
 2.  **Abre el proyecto** en Unity (Versión recomendada 2022.3 o superior).
 3.  **Controles**:
     * `WASD`: Movimiento.
-    * `Mouse0`: Disparar.
+    * `Left Click`: Disparar.
+    * `Right Click`: Apuntar.
     * `1 / 2`: Cambiar arma.
     * `R`: Recargar.
+    * `Shift`: Correr.
+    * `C`: Agacharse.
 
 ---
 Desarrollado por **ElGolondras**.
